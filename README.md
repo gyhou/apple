@@ -2,7 +2,7 @@
 
 - Extract iOS app reviews through official API and transforming data into CSV file
 - Demonstrate how to load data into MongoDB
-- Use that CSV file to create scattertext interactive visualization
+- Present analysis and insights through creation of interactive scattertext visualization
 
 [Data Visualization through Scattertext](http://gyhou.com/iTunes-RV-App-Reviews-Scattertext.html)
 
