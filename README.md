@@ -1,4 +1,4 @@
-# Apple iTunes App Reviews API
+# Analyzing iTunes App Reviews
 
 - Extract iOS app reviews through official API and transforming data into CSV file
 - Demonstrate how to load data into MongoDB
